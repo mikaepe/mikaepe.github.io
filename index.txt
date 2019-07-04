@@ -1,0 +1,10 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Hello</title>
+</head>
+<body>
+    <a href="a.html">Version_A</a> </br>
+    <a href="b.html">Version_B</a>
+</body>
+</html> 
